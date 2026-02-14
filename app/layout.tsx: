@@ -1,0 +1,4 @@
+export const metadata = {
+  title: "UniPort - AI Lead Follow-Up Automation",
+  description: "Automate WhatsApp, Email & DM follow-ups with AI.",
+};
